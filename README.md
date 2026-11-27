@@ -77,7 +77,7 @@ The LDA coherence score exceeded the target of 0.45. However, the held-out agree
 ## Project Deliverables
 
 - [Final Analysis Notebook](Customer_Review_Text_Analysis_Final.ipynb)
-- [Two-Page Business Insight Report](Customer_Review_Two_Page_Insight_Report.pdf)
+- [Two-Page Business Insight Report](Customer_Review_Two_Page_Insight_Report_Final.pdf)
 - [Labelled Review Dataset](manual_labelling_reviewed.csv)
 - [Final Analysis Outputs and Visualisations](review_analysis_outputs%20%285%29.zip)
 
