@@ -76,14 +76,14 @@ The LDA coherence score exceeded the target of 0.45. However, the held-out agree
 
 ## Project Deliverables
 
-- [Improved Analysis Notebook](Customer_Review_Text_Analysis_Improved.ipynb)
+- [Final Analysis Notebook](Customer_Review_Text_Analysis_Final.ipynb)
 - [Two-Page Business Insight Report](Customer_Review_Two_Page_Insight_Report.pdf)
 - [Labelled Review Dataset](manual_labelling_reviewed.csv)
-- [Analysis Outputs and Visualisations](review_analysis_outputs%20%282%29.zip)
+- [Final Analysis Outputs and Visualisations](review_analysis_outputs%20%285%29.zip)
 
 ## How to Run the Project
 
-1. Download the improved Jupyter notebook.
+1. Download the final Jupyter notebook.
 2. Open the notebook in Google Colab.
 3. Install the required libraries using the setup cell.
 4. Follow the dataset loading instructions.
@@ -98,7 +98,7 @@ The LDA coherence score exceeded the target of 0.45. However, the held-out agree
 - Labelled classes are imbalanced.
 - AI-assisted labels require independent human verification.
 - The 75% agreement target was not achieved.
-- Word clouds and trend charts currently cover the three highest-priority themes.
+- Word clouds and trend charts cover all five identified themes.
 - Observed associations do not establish the causes of declining ratings.
 
 ## Conclusion
